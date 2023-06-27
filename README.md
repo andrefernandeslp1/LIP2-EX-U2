@@ -40,8 +40,11 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
   * media: calcula a média de um array de números.
   
   * Exemplo:
-  
-  * 
+    ![Capturar2](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/49255577-a762-4225-9854-baa1aef6b508)
+
+  * Exemplo:
+    ![Capturar3](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/a7381eca-2f13-4a30-85ee-9869c82ab664)
+
 
 * O programa será executado e você verá a saída no prompt de comando.
 
