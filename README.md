@@ -36,7 +36,8 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
   
   * Exemplo:
     
-    
+    ![Capturar](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/569106b2-e588-4f34-a9d1-eb3f41cc6fe0)
+
     
     
 
