@@ -37,11 +37,11 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
 
 
 
-### **Operações possíveis:**
+### Operações possíveis:
 
 
 
-* **divisao**: divide dois números inteiros.
+#### * divisao: divide dois números inteiros.
 
   * Argumentos de divisao: divisão não possui argumentos. Os números serão solicitados durante a execução do programa.
 
@@ -51,7 +51,7 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
 
 
 
-* **media**: calcula a média de um array de números.
+#### * media: calcula a média de um array de números.
 
   * Argumentos de media: sequência de números.
 
@@ -61,7 +61,7 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
 
 
 
-* **lerarquivo**: lê o conteúdo de um arquivo de texto.
+#### * lerarquivo: lê o conteúdo de um arquivo de texto.
 
   * Argumentos de lerarquivo: arquivo de texto.
 
