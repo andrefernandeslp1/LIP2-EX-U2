@@ -37,7 +37,7 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
 
 
 
-  ### **Operações possíveis:**
+### **Operações possíveis:**
 
 
 
@@ -46,6 +46,7 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
   * Argumentos de divisao: divisão não possui argumentos. Os números serão solicitados durante a execução do programa.
 
   * Exemplo:
+  
   ![Capturar](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/569106b2-e588-4f34-a9d1-eb3f41cc6fe0)
 
 
@@ -55,6 +56,7 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
   * Argumentos de media: sequência de números.
 
   * Exemplo:
+  
   ![Capturar2](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/49255577-a762-4225-9854-baa1aef6b508)
 
 
@@ -64,4 +66,5 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
   * Argumentos de lerarquivo: arquivo de texto.
 
   * Exemplo:
+  
   ![Capturar3](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/a7381eca-2f13-4a30-85ee-9869c82ab664)
