@@ -28,18 +28,20 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
   Isso irá gerar um arquivo `.class` com o bytecode Java para cada classe utilizada no programa.
 
 * Agora, você pode executar o programa Java usando o comando `java`, seguido pelo nome da classe principal (que contém o método `public static void main`) e da operação desejada:`java App <operação> <argumentos>`
-  Operações possíveis: 
+  **Operações possíveis:**
   
-  * divisao: divide dois números inteiros.
+  * **divisao**: divide dois números inteiros.
     
     * Argumentos de divisao: divisão não possui argumentos. Os números serão solicitados durante a execução do programa.
   
   * Exemplo:
-    
     ![Capturar](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/569106b2-e588-4f34-a9d1-eb3f41cc6fe0)
-
-    
-    
+  
+  * media: calcula a média de um array de números.
+  
+  * Exemplo:
+  
+  * 
 
 * O programa será executado e você verá a saída no prompt de comando.
 
