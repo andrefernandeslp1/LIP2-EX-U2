@@ -28,40 +28,40 @@ Para executar o programa Java na linha de comando, siga as etapas abaixo:
 
 * Compile o arquivo Java usando o comando `javac`, seguido pelo nome do arquivo: **`javac App.java`**
   Isso irá gerar um arquivo `.class` com o bytecode Java para cada classe utilizada no programa.
-  
-  
+
+
 
 ### Execução
 
 * Agora, você pode executar o programa Java usando o comando `java`, seguido pelo nome da classe principal (que contém o método `public static void main`) e da operação desejada:`java App <operação> <argumentos>`
-  
-  
-  
+
+
+
   ### **Operações possíveis:**
-  
-  
-  
-  * **divisao**: divide dois números inteiros.
-    
-    * Argumentos de divisao: divisão não possui argumentos. Os números serão solicitados durante a execução do programa.
-    
-    * Exemplo:
-      ![Capturar](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/569106b2-e588-4f34-a9d1-eb3f41cc6fe0)
-      
-      
+
+
+
+* **divisao**: divide dois números inteiros.
+
+  * Argumentos de divisao: divisão não possui argumentos. Os números serão solicitados durante a execução do programa.
+
+  * Exemplo:
+  ![Capturar](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/569106b2-e588-4f34-a9d1-eb3f41cc6fe0)
+
+
 
 * **media**: calcula a média de um array de números.
-  
+
   * Argumentos de media: sequência de números.
-  
+
   * Exemplo:
-    ![Capturar2](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/49255577-a762-4225-9854-baa1aef6b508)
-    
-    
+  ![Capturar2](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/49255577-a762-4225-9854-baa1aef6b508)
+
+
 
 * **lerarquivo**: lê o conteúdo de um arquivo de texto.
-  
+
   * Argumentos de lerarquivo: arquivo de texto.
-  
+
   * Exemplo:
-    ![Capturar3](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/a7381eca-2f13-4a30-85ee-9869c82ab664)
+  ![Capturar3](https://github.com/andrefernandeslp1/LIP2-EX-U2/assets/92834067/a7381eca-2f13-4a30-85ee-9869c82ab664)
