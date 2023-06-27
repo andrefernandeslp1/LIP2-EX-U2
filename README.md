@@ -1,18 +1,45 @@
-## Getting Started
+# Lista de Exercíco - Unidade 2 - LP2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+### Docente: Francimar Carlos de Macêdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Aluno: André Augusto Fernandes
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+### Instruções de Uso
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+### Compilação
+
+Para executar o programa Java na linha de comando, siga as etapas abaixo:
+
+1. Certifique-se de ter o Java Development Kit (JDK) instalado no seu sistema. Você pode verificar isso digitando `java -version` no prompt de comando. Se o JDK estiver instalado corretamente, você verá a versão do Java sendo exibida.
+
+2. Abra um prompt de comando ou terminal no seu sistema operacional.
+
+3. Navegue até o diretório onde o arquivo do programa Java está localizado. Você pode usar o comando `cd` para mudar de diretório.
+   Exemplo (no Windows):
+* `cd C:\caminho\para\o\diretorio\`
+
+* Compile o arquivo Java usando o comando `javac`, seguido pelo nome do arquivo:`javac App.java`
+  Isso irá gerar um arquivo `.class` com o bytecode Java para cada classe utilizada no programa.
+
+* Agora, você pode executar o programa Java usando o comando `java`, seguido pelo nome da classe principal (que contém o método `public static void main`) e da operação desejada:`java App <operação> <argumentos>`
+  Operações possíveis: 
+  
+  * divisao: divide dois números inteiros.
+    
+    * Argumentos de divisao: divisão não possui argumentos. Os números serão solicitados durante a execução do programa.
+  
+  * Exemplo:
+    
+    
+    
+    
+
+* O programa será executado e você verá a saída no prompt de comando.
+
+Certifique-se de substituir "MeuPrograma" pelo nome real do seu arquivo Java e classe principal. Além disso, verifique se o caminho para o arquivo está correto se ele estiver em um diretório diferente.

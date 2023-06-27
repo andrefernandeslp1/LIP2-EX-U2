@@ -3,7 +3,8 @@ public class Calculadora {
   // método divide
   public void divide(int a, int b) {
     try {
-      System.out.println(a/b);
+      System.out.println("Divisão = " + a/b);
+
     } catch (ArithmeticException e) {
       System.out.println("Erro: " + e.getMessage());
     }
